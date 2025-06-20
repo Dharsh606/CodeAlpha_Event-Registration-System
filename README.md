@@ -26,7 +26,7 @@ A lightweight event registration web app built with **Flask** and **SQLite**. Us
 ## 🧩 Installation
 
 ```bash
-git clone https://github.com/your-username/event-registration-system.git
+git clone https://github.com/Dharsh606/event-registration-system.git
 cd event-registration-system
 pip install -r requirements.txt
 python event_system.py
